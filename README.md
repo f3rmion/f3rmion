@@ -4,7 +4,7 @@
 - 🔭 currently working on machine learning applications for chemical reactivity
 - ⚡ looking to collaborate with other machine learning creators
 - 😄 Pronouns: he/his 
-- 💬 check out my <a href="https://eikecaldeweyher.de/">blog</a>
+- 💬 <a href="https://eikecaldeweyher.de/">check out my research</a>
 
 ## Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/f3rmion)
@@ -32,3 +32,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
