@@ -1,6 +1,6 @@
 ### Hi there, I'm Eike Caldeweyher 👋
 
-## <a href="https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/8378">PhD in quantum chemistry</a>, computational chemist, machine learning enthusiast, and great vegan cook!
+## <a href="https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/8378">PhD in quantum chemistry</a>, computational chemist, and great vegan cook!
 - 🔭 currently working on machine learning applications for chemical reactivity
 - ⚡ looking to collaborate with other machine learning creators
 - 😄 Pronouns: he/his 
