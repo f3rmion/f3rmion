@@ -1,10 +1,9 @@
-### Hi there, I'm Eike Caldeweyher 👋
+### Hi there, I'm Eike 👋
 
 ## <a href="https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/8378">PhD in quantum chemistry</a>, computational chemist, and great vegan cook!
 - 🔭 currently working on machine learning applications for chemical reactivity
-- ⚡ looking to collaborate with other machine learning creators
 - 😄 Pronouns: he/his 
-- 💬 <a href="https://ecresearch.netlify.app/">check out my research</a>
+- ⚡ <a href="https://ecresearch.netlify.app/">check out my research</a>
 
 ## Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/f3rmion)
@@ -16,6 +15,9 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 
 <!--
