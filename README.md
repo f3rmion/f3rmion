@@ -1,6 +1,6 @@
 ### Hi there, I'm Eike 👋
 
-## <a href="https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/8378">Quantum chemist</a>, developer, and great vegan cook!
+## <a href="https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/8378">Quantum chemist</a>, software engineer, and great vegan cook!
 - 🔭 currently working as a scientific software developer within the pharmaceutical industry
 - 🌱 Pronouns: he/his 
 - ⚡ <a href="https://ecresearch.netlify.app/">check out my research</a>
