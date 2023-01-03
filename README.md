@@ -1,9 +1,11 @@
 ### Hi there, I'm Eike 👋
 
-## <a href="https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/8378">Quantum chemist</a>, software engineer, and great vegan cook!
+## Quantum chemist, software engineer, decentralised finance researcher, and great vegan cook!
 - 🔭 currently working as software engineer within the pharmaceutical industry
 - 🌱 Pronouns: he/his 
+<!--
 - ⚡ <a href="https://ecresearch.netlify.app/">check out my research</a>
+-->
 
 ## Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/f3rmion)
