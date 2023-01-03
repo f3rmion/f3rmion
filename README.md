@@ -1,7 +1,7 @@
 ### Hi there, I'm Eike 👋
 
 ## Quantum chemist, software engineer, DeFi researcher, and great vegan cook!
-- 🔭 currently working as software engineer within the pharmaceutical industry
+- 🔭 currently working as associate principal data engineer within the pharmaceutical industry
 - 🌱 Pronouns: he/his 
 <!--
 - ⚡ <a href="https://ecresearch.netlify.app/">check out my research</a>
