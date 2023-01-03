@@ -1,6 +1,6 @@
 ### Hi there, I'm Eike 👋
 
-## Quantum chemist, software engineer, decentralised finance researcher, and great vegan cook!
+## Quantum chemist, software engineer, DeFi researcher, and great vegan cook!
 - 🔭 currently working as software engineer within the pharmaceutical industry
 - 🌱 Pronouns: he/his 
 <!--
