@@ -2,7 +2,7 @@
 
 ## Quantum chemist, software engineer, DeFi researcher, and great vegan cook!
 - 🔭 Currently working as associate principal data engineer within the pharmaceutical industry.
-- 🌱 Pronouns: he/his 
+- 🌱 On my way to expand my data structure, algorithms, and cryptography knowledge.
 <!--
 - ⚡ <a href="https://ecresearch.netlify.app/">check out my research</a>
 -->
