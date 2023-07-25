@@ -1,8 +1,9 @@
 ### Hi there, I'm Eike 👋
 
-## Quantum chemist, software engineer, DeFi researcher, and great vegan cook!
+## Quantum chemist, software engineer, and great vegan cook!
 - 🔭 Currently working as associate principal data engineer within the pharmaceutical industry.
 - 🌱 On my way to expand my data structure, algorithms, and cryptography knowledge.
+- 👯 Building protocols on Ethereum.
 <!--
 - ⚡ <a href="https://ecresearch.netlify.app/">check out my research</a>
 -->
