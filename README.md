@@ -1,6 +1,6 @@
 ### Hi there, I'm Eike 👋
 
-## Quantum chemist, software engineer, and great vegan cook!
+## Software engineer, quantum chemist, and great vegan cook!
 - 🔭 Currently working as associate principal data engineer within the pharmaceutical industry.
 - 🌱 On my way to expand my data structure, algorithms, and cryptography knowledge.
 - 👯 Building protocols on Ethereum.
