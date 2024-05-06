@@ -8,10 +8,6 @@
 - ⚡ <a href="https://ecresearch.netlify.app/">check out my research</a>
 -->
 
-## Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/f3rmion)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eike-caldeweyher/)
-
 <!--
 **f3rmion/f3rmion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
