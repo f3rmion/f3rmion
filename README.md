@@ -1,7 +1,7 @@
 ### Hi there, I'm Eike 👋
 
 ## Software engineer, quantum chemist, and great vegan cook!
-- 🔭 Currently working as Chemistry Data Tech Lead within the pharmaceutical industry.
+- 🔭 Currently working as Lead Data Engineer within the pharmaceutical industry.
 - 🌱 On my way to expand my data structure, algorithms, and cryptography knowledge.
 - 👯 Building protocols on Ethereum.
 <!--
