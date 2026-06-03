@@ -1,7 +1,7 @@
 ### Hi there, I'm Eike 👋
 
 ## Software engineer, researcher, and great vegan cook!
-- 🔭 Currently working as Senior Data Engineer within the web3 space.
+- 🔭 Currently working as Privacy Engineer within the web3 space.
 - 👯 Building protocols on blockchains.
 <!--
 - ⚡ <a href="https://ecresearch.netlify.app/">check out my research</a>
